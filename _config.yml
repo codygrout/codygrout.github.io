@@ -1,0 +1,10 @@
+title: Black Oak Land Surveying and Services
+name: Black Oak Land Surveying and Services
+description: Simple business website
+
+url: "https://codygrout.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
