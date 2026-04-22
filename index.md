@@ -6,15 +6,7 @@ header:
   overlay_filter: 0.4
   caption: "Professional Land Surveying Services"
 excerpt: "Accurate, reliable, local expertise you can trust."
----
 
-## About Us
-
-We provide professional land surveying services specializing in residential, commercial, and development projects across the region. Our team ensures precision, compliance, and clear communication from start to finish.
-
-## Our Services
-
-{% include feature_row id="services" %}
 services:
   - image_path: /assets/images/service1.jpg
     title: Boundary Surveys
@@ -35,3 +27,12 @@ services:
     title: ALTA/NSPS Surveys
     excerpt: Comprehensive surveys for commercial real estate.
     url: /services/
+---
+
+## About Us
+
+We provide professional land surveying services specializing in residential, commercial, and development projects across the region. Our team ensures precision, compliance, and clear communication from start to finish.
+
+## Our Services
+
+{% include feature_row id="services" %}
