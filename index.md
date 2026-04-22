@@ -22,11 +22,6 @@ services:
     title: Construction Staking
     excerpt: Precise layout for building and infrastructure projects.
     url: /services/
-
-  - image_path: /assets/images/service4.jpg
-    title: ALTA/NSPS Surveys
-    excerpt: Comprehensive surveys for commercial real estate.
-    url: /services/
 ---
 
 ## About Us
